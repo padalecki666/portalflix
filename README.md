@@ -18,3 +18,5 @@ A composição dos sites se dá pelas seguintes paginas:
 # Instalação e Execução
 1. Baixe o zip que contém os arquivos necessários [aqui](projeto.zip) .
 2. Extraia o arquivo e abra a pasta "projeto", logo em seguida, abra o arquivo "inicio.html" .
+# Considerações Finais
+Este projeto foi feito para meios educacionais usando o básico de HTMl e CSS, servindo de demostração para futuras ideias de sites.
