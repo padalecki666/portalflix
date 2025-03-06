@@ -15,3 +15,5 @@ A composição dos sites se dá pelas seguintes paginas:
 * **thelastofus.html**: Página onde será visto as informações sobre a série The Last of Us.
 * **fallout.html**: Página onde será visto as informações sobre a série Fallout.
 * **arcane.html**: Página onde será visto as informações sobre a série Arcane.
+# Instalação e Execução
+1. Baixe o arquivo [aqui](projeto.zip)
