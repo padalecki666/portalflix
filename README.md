@@ -16,4 +16,5 @@ A composição dos sites se dá pelas seguintes paginas:
 * **fallout.html**: Página onde será visto as informações sobre a série Fallout.
 * **arcane.html**: Página onde será visto as informações sobre a série Arcane.
 # Instalação e Execução
-1. Baixe o arquivo [aqui](projeto.zip)
+1. Baixe o zip que contém os arquivos necessários [aqui](projeto.zip) .
+2. Extraia o arquivo e abra a pasta "projeto", logo em seguida, abra o arquivo "inicio.html" .
