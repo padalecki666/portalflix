@@ -15,6 +15,7 @@ A composição dos sites se dá pelas seguintes paginas:
 * **thelastofus.html**: Página onde será visto as informações sobre a série The Last of Us.
 * **fallout.html**: Página onde será visto as informações sobre a série Fallout.
 * **arcane.html**: Página onde será visto as informações sobre a série Arcane.
+* **colocacao.hjtml**: Página onde será visto as colocações das séries utilizadas.
 # Instalação e Execução
 1. Baixe o zip que contém os arquivos necessários [aqui](projeto.zip) .
 2. Extraia o arquivo e abra a pasta "projeto", logo em seguida, abra o arquivo "inicio.html" .
